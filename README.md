@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yihao Shi</h1>
 <h3 align="center">Now, I complete my PhD at Zhejiang University and then work in industry.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yihao-Shi&label=Profile%20views&color=0e75b6&style=flat" alt="Yihao-Shi" /> </p>
-
 - Our project [GeoTaichi](https://github.com/Yihao-Shi/GeoTaichi) under active development.
 
 <h3 align="left">Connect with me:</h3>
