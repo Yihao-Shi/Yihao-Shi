@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yihao Shi</h1>
 <h3 align="center">Now, I complete my PhD at Zhejiang University and then work in industry.</h3>
 
-- Our project [GeoTaichi](https://github.com/Yihao-Shi/GeoTaichi) under active development.
+- Our project [GeoTaichi](https://github.com/Yihao-Shi/GeoTaichi) is under active development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
