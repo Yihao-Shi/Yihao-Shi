@@ -2,7 +2,7 @@
 
 Hi! I'm **Yihao Shi (史亦皓)**. I received my Ph.D. in Geotechnical Engineering from [Zhejiang University](https://www.zju.edu.cn/english/), supervised by [Prof. Ning Guo](https://person.zju.edu.cn/en/nguo). I was also fortunate to spend one year as a visiting researcher in Computer Graphics at [Carnegie Mellon University](https://www.cmu.edu/), where I was supervised by [Prof. Minchen Li](https://www.cs.cmu.edu/~minchenl/). Prior to that, I obtained my Bachelor's degree in Civil Engineering from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2021, under the supervision of Prof. Zheng Hu and Prof. Beibing Dai.
 
-My research focuses on developing **efficient, robust, and scalable numerical methods for physical simulation**. I am particularly interested in deformable body simulation, collision and contact handling, GPU-accelerated computing, and coupled continuum-discrete methods (FEM/IGA/MPM/DEM) for geotechnical engineering.
+My research focuses on developing **efficient, robust, and scalable numerical methods for physical simulation**. I am particularly interested in deformable body (soil/cloth/soft particle) simulation, collision and contact handling, GPU-accelerated computing, and coupled continuum-discrete methods (FEM/IGA/MPM/DEM) for geotechnical engineering.
 
 I am the core developers of [**GeoTaichi**](https://github.com/Yihao-Shi/GeoTaichi), an open-source framework for high-performance multiphysics simulation.
 
